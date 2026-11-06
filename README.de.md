@@ -8,7 +8,7 @@ Eine kleine Windows-App, die dein Mikrofon live bearbeitet (Verstärkung, Verzer
 
 ## Funktionen
 
-- **Verstärkung**: −20 bis +40 dB
+- **Verstärkung**: -20 bis +40 dB
 - **Verzerrung**: 0–100 % Soft-Clip-Overdrive
 - **Qualität**: Reduzierung von Bittiefe (2–16 Bit) und Abtastrate (2 000–48 000 Hz) für Radio-, Telefon- oder Retro-Klang
 - **Voreinstellungen**: eingebaute (Normal, Laut, Radio, Telefon, Roboter, Megafon, Retro 8-Bit, Chaos) und eigene
